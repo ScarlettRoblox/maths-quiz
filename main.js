@@ -48,7 +48,7 @@ if (get_answer == actual_answer) {
      document.getElementById("player2_score").innerHTML = player2_score;
     }
 }
-
+ 
 
 if (question_turn == "player1") {
     question_turn="player2"
